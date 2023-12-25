@@ -34,12 +34,12 @@ body{
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    min-height: 100vh;
 }
 .wrapper{
     background: var(--white);
     max-width: 600px;
     border-radius: 14px;
-    margin-top: 10rem;
     position: relative;
     z-index: 2;
 }
